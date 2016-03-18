@@ -1,9 +1,7 @@
 # name of the software
-name: GoSpatial Api Docs
-# current version of the software
-version: 1.4.0
+name: Stefan Safranek
 # url of the download button
-downloadUrl: https://github.com/sjsafranek/gospatial
+downloadUrl: https://github.com/sjsafranek
 # licence of the software
 license: MIT License
 licenseUrl: http://opensource.org/licenses/MIT
@@ -11,14 +9,12 @@ licenseUrl: http://opensource.org/licenses/MIT
 # list of additional links on the right of the top menu
 headerLinks:
   - title: GitHub
-    url: https://github.com/sjsafranek/gospatial
+    url: https://github.com/sjsafranek
 
 # list if additional links on the footer
 footerLinks:
   - title: GitHub
-    url: https://github.com/sjsafranek/gospatial
-  - title: Issues
-    url: https://github.com/sjsafranek/gospatial/issues?state=open
+    url: https://github.com/sjsafranek
 
 # header
 header:
@@ -34,7 +30,6 @@ analytics:
 # github buttons
 githubButton:
   user: sjsafranek
-  repo: gospatial
 
 # twitter buttons
 twitter:
