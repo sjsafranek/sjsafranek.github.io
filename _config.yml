@@ -1,10 +1,5 @@
 # name of the software
 name: Stefan Safranek
-# url of the download button
-downloadUrl: https://github.com/sjsafranek
-# licence of the software
-license: MIT License
-licenseUrl: http://opensource.org/licenses/MIT
 
 # list of additional links on the right of the top menu
 headerLinks:
